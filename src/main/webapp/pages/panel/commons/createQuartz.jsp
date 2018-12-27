@@ -1,8 +1,5 @@
 <%--
   Created by IntelliJ IDEA.
-  User: gaoshen
-  Date: 2017/1/18
-  Time: 20:14
   To change this template use File | Settings | File Templates.
 --%>
 

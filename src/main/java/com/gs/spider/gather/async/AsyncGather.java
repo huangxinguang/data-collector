@@ -11,7 +11,6 @@ import java.util.stream.Collectors;
 /**
  * AsyncGather
  * 异步抓取器基类,提供任务管理功能
- *
  */
 public class AsyncGather {
     protected TaskManager taskManager;

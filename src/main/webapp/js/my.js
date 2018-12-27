@@ -1,5 +1,5 @@
 /**
- * Created by gaoshen on 16/5/17.
+ * Created
  */
  var needShowResultModel = false;
 function showModal(title, content, cancelAction, confirmAction) {

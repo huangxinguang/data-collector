@@ -1,7 +1,3 @@
-<%--
-  modified by Hokis
-  2017-5-18 20:07:59
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:if test="${tablePage ne null}"> 
