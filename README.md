@@ -15,6 +15,8 @@
 
 5分钟即可部署完毕,输入网站爬虫模板，半分钟即可完成一个爬虫,开始数据采集.
 不需要进行任何编码就可以完成一个功能强大的爬虫.
+
+##示例图：
 <img src="https://github.com/huangxinguang/data-collector/blob/master/doc/imgs/search.png"/>
 
 ## Windows/Mac/Linux 全平台支持
