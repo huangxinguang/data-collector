@@ -1,0 +1,18 @@
+{
+  "esHost": "localhost",
+  "esPort": 9300,
+  "esClusterName": "elasticsearch",
+  "commonsIndex": "commons",
+  "maxHttpDownloadLength": 1048576,
+  "commonsSpiderDebug": false,
+  "taskDeleteDelay": 1,
+  "taskDeletePeriod": 2,
+  "limitOfCommonWebpageDownloadQueue": 100000,
+  "needRedis": false,
+  "needEs": true,
+  "redisPort": 6379,
+  "redisHost": "localhost",
+  "webpageRedisPublishChannelName": "webpage",
+  "commonsWebpageCrawlRatio": 2,
+  "ajaxDownloader": "http://localhost:7788/"
+}
