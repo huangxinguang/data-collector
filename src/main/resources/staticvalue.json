@@ -1,5 +1,5 @@
 {
-  "esHost": "localhost",
+  "esHost": "119.23.240.32",
   "esPort": 9300,
   "esClusterName": "elasticsearch",
   "commonsIndex": "commons",
